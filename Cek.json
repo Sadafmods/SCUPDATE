@@ -2,25 +2,23 @@
   "Ads":
   [
     {
-      "status_app":"0",
-      "link_redirect":"http://",
-      "select_ads":"",
+     "select_main_ads": "",
       "select_backup_ads":"",
-      "backup_mode":"0",
-      "admob_openid":"",
-      "admob_nativeid":"",
-      "admob_interid":"",
-      "admob_bannerid":"",
-      "interval_intertitial":5,
-      "fan_inter":"YOUR_PLACEMENT_ID",
-      "fan_banner":"YOUR_PLACEMENT_ID",
-      "fan_native":"YOUR_PLACEMENT_ID",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "mopub_mrec":"",
-      "applovin_banner":"",
-      "applovin_inter":""
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
 
@@ -35,7 +33,7 @@
   ],
   "Skin":
   [
-    {
+ {
       "id":1,
       "name_skin":"duck skeppy",
       "skin_url":"https://lh3.googleusercontent.com/Es3_E87PbADHk1Zl_JsniGRnlisJmNdNjG8qptTCK_q5w3Lu2OOpYdH9vyuq_2tRv0pLmGDecyZ8DajnW71kONc",
@@ -345,4 +343,3 @@
 
   ]
 }
-
